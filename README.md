@@ -45,4 +45,4 @@ Estou em constante aprendizado, buscando desenvolver meus conhecimentos em progr
 
 ### Contacto e Redes
 
-[![LinkedIn](https://www.linkedin.com/in/eduardo-morais-a9504a314/?skipRedirect=true&contentTrackingId=oT1%2BW71QSkmt8JNxbjmYog%3D%3D&viewName=premium-nav-upsell-text&upsellOrderOrigin=Tracking%3Av1%3Apremium_nav_upsell_text%3ANav%3AIn-Product)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/eduardo-morais-a9504a314/?skipRedirect=true&contentTrackingId=oT1%2BW71QSkmt8JNxbjmYog%3D%3D&viewName=premium-nav-upsell-text&upsellOrderOrigin=Tracking%3Av1%3Apremium_nav_upsell_text%3ANav%3AIn-Product
