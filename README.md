@@ -34,7 +34,7 @@ Estou em constante aprendizado, buscando desenvolver meus conhecimentos em progr
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
-*Ferramentas e Plataformas:* VS Code, GitHub, Python
+*Ferramentas e Plataformas:* VS Code, GitHub, Python,Tkinter
 
 ---
 
