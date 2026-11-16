@@ -40,7 +40,7 @@ Estou em constante aprendizado, buscando desenvolver meus conhecimentos em progr
 
 ### Projetos Relevantes
 
-- **[Áqua Viva — Sistema de Saneamento e Preservação]**  
+- **[Áqua Viva — Sistema de Saneamento e Preservação](https://github.com/edu-wave/Aqua-viva)**
   Aplicação desktop desenvolvida em *Python* com interface gráfica em *Tkinter* para a disciplina de Projeto de Desenvolvimento de Sistemas II. O sistema permite que cidadãos registem ocorrências de vazamentos, esgoto a céu aberto e água parada, enquanto gestores públicos acompanham e atualizam o estado de cada denúncia.
 
 ### Contacto e Redes
